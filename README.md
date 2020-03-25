@@ -1,5 +1,8 @@
 # Microplastics
 
+## Tecnologías usadas
+Java, Python, Keras, Tensorflow, Python Imaging Library o Pillow, Matplotlib y Pandas.
+
 ## Resumen
 La presencia de microplásticos en el mar es un problema que ha adquirido relevancia en los últimos tiempos. Para analizar su evolución se llevan los residuos plásticos de zonas costeras a laboratorios para su conteo exhaustivo. Debido a la complejidad de recopilación de muestras y tratamiento de datos es fundamental tanto la eficiencia como la estandarización durante el proceso.
     
@@ -15,7 +18,7 @@ The objective of this study is to determine the integration of automatic tools t
 This document compares the results obtained in the detection of plastics as well as estimation of plastics, between different architectures of artificial neural networks.
 
 ## Objetivos
-sí pues, este trabajo se centra en, la detección y estimación de microplásticos, por medio de imágenes tomadas directamente en las playas. Para ello hay que interpretar los datos recogidos por el grupo EOMAR para estudiar su utilización en el entrenamiento de redes neuronales, con el fin de definir una estrategia. 
+Así pues, este trabajo se centra en, la detección y estimación de microplásticos, por medio de imágenes tomadas directamente en las playas. Para ello hay que interpretar los datos recogidos por el grupo EOMAR para estudiar su utilización en el entrenamiento de redes neuronales, con el fin de definir una estrategia. 
 
 Una vez decidido cómo abordar el problema habrá que estructurar y etiquetar manualmente las imágenes, utilizando un programa auxiliar,  para adaptarlas a la estrategia tomada determinando la máscara delimitadora de las zonas con microplásticos en la arena. 
 
