@@ -14,7 +14,7 @@ The objective of this study is to determine the integration of automatic tools t
 
 This document compares the results obtained in the detection of plastics as well as estimation of plastics, between different architectures of artificial neural networks.
 
-##Objetivos
+## Objetivos
 sí pues, este trabajo se centra en, la detección y estimación de microplásticos, por medio de imágenes tomadas directamente en las playas. Para ello hay que interpretar los datos recogidos por el grupo EOMAR para estudiar su utilización en el entrenamiento de redes neuronales, con el fin de definir una estrategia. 
 
 Una vez decidido cómo abordar el problema habrá que estructurar y etiquetar manualmente las imágenes, utilizando un programa auxiliar,  para adaptarlas a la estrategia tomada determinando la máscara delimitadora de las zonas con microplásticos en la arena. 
